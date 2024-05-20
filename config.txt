@@ -1,0 +1,7 @@
+[Config]
+lang1 = eng
+lang2 = rus
+login = fgdhfgh
+password = fgdhdfgh
+is_registr = True
+
